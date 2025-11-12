@@ -14,7 +14,7 @@ Upload a repository (ZIP file or Git URL) and get:
 
 ### Landing Page
 
-![Landing Page](docs/screenshots/landing-page.png)
+![Landing Page](docs/screenshots/landingpage.png)
 
 The landing page features a clean, modern interface with:
 - **Header**: CodeMentor.AI branding with "Try Demo" navigation
